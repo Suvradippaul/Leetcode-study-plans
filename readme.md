@@ -30,3 +30,9 @@ Days | Questions | Difficulty | Solutions
 11 | [1855. Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%201/Solutions/Maximum%20Distance%20Between%20a%20Pair%20of%20Values.md)
 11 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%201/Solutions/Search%20in%20Rotated%20Sorted%20Array..md)
 12 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%201/Solutions/Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
+
+
+### Part 2
+Days | Questions | Difficulty | Solutions
+--- | --- | --- | ---
+11 | 826. Most Profit Assigning Work | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Most%20Profit%20Assigning%20Work.md)
