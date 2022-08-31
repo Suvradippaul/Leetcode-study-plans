@@ -14,7 +14,7 @@ Days | Questions | Difficulty | Solutions
 3 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Easy | blank
 3 | [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | blank
 4 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | blank
-4 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | blank
+4 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Medium | blank
 5 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | blank
 5 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | blank
 6 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | blank
