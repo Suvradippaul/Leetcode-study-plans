@@ -1,7 +1,5 @@
-package leetcode_study_plans.binary_search.part1;
-
-public class Day7_Special_Array {
-
+```
+class Solution {
 	public int specialArray(int[] nums) {
 		for (int i = 0; i <= nums.length; i++) {
 			int count = 0;
@@ -12,8 +10,7 @@ public class Day7_Special_Array {
 			if (count == i)
 				return i;
 		}
-
 		return -1;
 	}
-
 }
+```

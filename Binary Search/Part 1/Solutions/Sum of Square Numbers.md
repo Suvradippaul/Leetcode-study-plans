@@ -1,8 +1,6 @@
-package leetcode_study_plans.binary_search.part1;
-
-public class Day10_Sum_of_Square_numbers {
-	
-	boolean judgeSquareSum(int c) {
+```
+class Solution {
+    public boolean judgeSquareSum(int c) {
         long start = 0;
         long end = (long)Math.sqrt(c);
         
@@ -20,5 +18,5 @@ public class Day10_Sum_of_Square_numbers {
         }
         return false;
     }
-
 }
+```

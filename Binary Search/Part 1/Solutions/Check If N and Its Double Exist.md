@@ -1,9 +1,5 @@
-package leetcode_study_plans.binary_search.part1;
-
-import java.util.Arrays;
-
-public class Day9_Check_if_N_and_its_double_exist {
-
+```
+class Solution {
 	public boolean checkIfExist(int[] arr) {
 		Arrays.sort(arr);
 		for (int i = 0; i < arr.length; i++) {
@@ -14,3 +10,4 @@ public class Day9_Check_if_N_and_its_double_exist {
 		return false;
 	}
 }
+```

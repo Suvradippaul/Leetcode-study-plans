@@ -1,7 +1,5 @@
-package leetcode_study_plans.binary_search.part1;
-
-public class Day2_Search_Insert_Position {
-	
+```
+class Solution {
 	public int searchInsert(int[] nums, int target) {
 		int l = 0;
 		int h = nums.length - 1;
@@ -17,6 +15,8 @@ public class Day2_Search_Insert_Position {
 				h = m - 1;
 			}
 		}
+
 		return l;
 	}
 }
+```

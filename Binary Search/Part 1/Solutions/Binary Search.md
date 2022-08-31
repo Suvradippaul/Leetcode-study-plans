@@ -1,8 +1,6 @@
-package leetcode_study_plans.binary_search.part1;
-
-public class Day1_Binary_search {
-
-	static int search(int[] arr, int target) {
+```
+class Solution {
+	public int search(int[] arr, int target) {
 		int l = 0;
 		int h = arr.length - 1;
 
@@ -17,6 +15,8 @@ public class Day1_Binary_search {
 				h = m - 1;
 			}
 		}
+
 		return -1;
 	}
 }
+```

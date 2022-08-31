@@ -1,11 +1,5 @@
-package leetcode_study_plans.binary_search.part1;
-
-public class Day5_First_Bad_Version {
-	// this function is already implemented in question.
-	boolean isBadVersion(int n) {
-		return true;
-	}
-
+```
+public class Solution extends VersionControl {
 	public int firstBadVersion(int n) {
 		long s = 1;
 		long e = n;
@@ -19,6 +13,8 @@ public class Day5_First_Bad_Version {
 				s = m + 1;
 			}
 		}
+
 		return (int) s;
 	}
 }
+```

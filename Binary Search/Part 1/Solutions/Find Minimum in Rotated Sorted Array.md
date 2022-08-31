@@ -1,7 +1,5 @@
-package leetcode_study_plans.binary_search.part1;
-
-public class Day12_Find_Minimum_in_Rotated_Sorted_Array {
-
+```
+class Solution {
 	public int findMin(int[] nums) {
 		int n = nums.length;
 		int min = nums[n - 1];
@@ -18,5 +16,5 @@ public class Day12_Find_Minimum_in_Rotated_Sorted_Array {
 		}
 		return min;
 	}
-
 }
+```

@@ -1,10 +1,6 @@
-package leetcode_study_plans.binary_search.part1;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-
-public class Day10_Intersection_of_2_Arrays {
-	int[] intersect(int[] arr1, int[] arr2) {
+```
+class Solution {
+	public int[] intersect(int[] arr1, int[] arr2) {
 		Arrays.sort(arr1);
 		Arrays.sort(arr2);
 
@@ -36,3 +32,4 @@ public class Day10_Intersection_of_2_Arrays {
 		return ans;
 	}
 }
+```

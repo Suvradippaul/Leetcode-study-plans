@@ -1,14 +1,13 @@
-package leetcode_study_plans.binary_search.part1;
-
-public class Day11_Maximum_Distance_between_pair_of_vaues {
-
+```
+class Solution {
 	public int maxDistance(int[] nums1, int[] nums2) {
 		int ans = 0;
 
 		for (int i = 0; i < nums1.length; i++) {
 			int start = i;
 			int end = search(nums2, nums1[i], start);
-			if (end != -1) ans = Math.max(ans, (end - start));
+			if (end != -1)
+				ans = Math.max(ans, (end - start));
 		}
 
 		return ans;
@@ -24,8 +23,7 @@ public class Day11_Maximum_Distance_between_pair_of_vaues {
 
 			if (arr[m] < k) {
 				e = m - 1;
-			} 
-			else {
+			} else {
 				ans = m;
 				s = m + 1;
 			}
@@ -34,3 +32,4 @@ public class Day11_Maximum_Distance_between_pair_of_vaues {
 		return ans;
 	}
 }
+```

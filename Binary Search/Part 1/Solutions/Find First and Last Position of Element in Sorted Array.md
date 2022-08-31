@@ -1,20 +1,18 @@
-package leetcode_study_plans.binary_search.part1;
-
-public class Day5_First_and_Last_position_of_element {
-
-	public static void main(String[] args) {
-		int[] nums = { 1, 2 };
-		int target = 2;
-
+```
+class Solution {
+	public int[] searchRange(int[] nums, int target) {
 		int[] ans = { -1, -1 };
+		if (nums.length == 0 || target < nums[0] || target > nums[nums.length - 1]) {
+			return ans;
+		}
 
 		ans[0] = findFirst(nums, target);
 		ans[1] = findLast(nums, target);
 
-//		return ans;
+		return ans;
 	}
 
-	static int findFirst(int[] nums, int target) {
+	int findFirst(int[] nums, int target) {
 		int idx = -1;
 		int start = 0;
 		int end = nums.length - 1;
@@ -31,7 +29,7 @@ public class Day5_First_and_Last_position_of_element {
 		return idx;
 	}
 
-	static int findLast(int[] nums, int target) {
+	int findLast(int[] nums, int target) {
 		int idx = -1;
 		int start = 0;
 		int end = nums.length - 1;
@@ -48,3 +46,4 @@ public class Day5_First_and_Last_position_of_element {
 		return idx;
 	}
 }
+```
