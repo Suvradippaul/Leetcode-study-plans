@@ -32,7 +32,6 @@ class TimeMap {
         
         while (lo < hi) {
             int mid = ((lo+hi)%2==1) ? ((lo+hi)>>1)+1 : (lo+hi)>>1;
-			
 			if (target < list.get(mid).time) {
 				hi = mid - 1;
 			}
