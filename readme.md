@@ -35,4 +35,5 @@ Days | Questions | Difficulty | Solutions
 ### Part 2
 Days | Questions | Difficulty | Solutions
 --- | --- | --- | ---
-11 | 826. Most Profit Assigning Work | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Most%20Profit%20Assigning%20Work.md)
+9 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Single%20Element%20in%20a%20Sorted%20Array.md)
+11 | [826. Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Most%20Profit%20Assigning%20Work.md)
