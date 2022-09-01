@@ -1,7 +1,7 @@
 
-# Leetcode Study Plans
+# [Leetcode Study Plans](https://leetcode.com/study-plan/)
 
-## Binary Search
+## [Binary Search](https://leetcode.com/study-plan/binary-search/)
 
 ### Part 1
 
@@ -36,6 +36,8 @@ Days | Questions | Difficulty | Solutions
 Days | Questions | Difficulty | Solutions
 --- | --- | --- | ---
 9 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Single%20Element%20in%20a%20Sorted%20Array.md)
+10 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | -
+10 | [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | Medium | -
 11 | [826. Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Most%20Profit%20Assigning%20Work.md)
 11 | [436. Find Right Interval](https://leetcode.com/problems/find-right-interval/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Find%20Right%20Interval.md)
 16 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Time%20Based%20Key-Value%20Store.md)
