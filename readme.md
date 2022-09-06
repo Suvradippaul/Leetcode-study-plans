@@ -5,7 +5,7 @@
 
 ### Part 1
 
-Days | Questions | Difficulty | Solutions
+Day | Title | Difficulty | Solution
 --- | --- | --- | ---
 1 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%201/Solutions/Binary%20Search.md)
 1 | [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) |Easy | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%201/Solutions/Guess%20Number%20Higher%20or%20Lower.md)
@@ -33,7 +33,7 @@ Days | Questions | Difficulty | Solutions
 
 
 ### Part 2
-Days | Questions | Difficulty | Solutions
+Day | Title | Difficulty | Solution
 --- | --- | --- | ---
 9 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Single%20Element%20in%20a%20Sorted%20Array.md)
 10 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Count%20Complete%20Tree%20Nodes.md)
@@ -47,6 +47,6 @@ Days | Questions | Difficulty | Solutions
 14 | [1574. Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/1574.%20Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted.md)
 15 | [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.md)
 16 | [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Time%20Based%20Key-Value%20Store.md)
-16 | [1300. Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium | -
+16 | [1300. Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | Medium | [here][https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target.md]
 17 | [1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/1802.%20Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array.md)
 20 | [911. Online Election](https://leetcode.com/problems/online-election/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/911.%20Online%20Election.md)
