@@ -35,7 +35,7 @@ Day | Title | Difficulty | Solution
 ### Part 2
 Day | Title | Difficulty | Solution
 --- | --- | --- | ---
-3 | [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | Medium | -
+3 | [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/1760.%20Minimum%20Limit%20of%20Balls%20in%20a%20Bag.md)
 9 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Single%20Element%20in%20a%20Sorted%20Array.md)
 10 | [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Count%20Complete%20Tree%20Nodes.md)
 10 | [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Ways%20to%20split%20array%20into%203%20subarrays.md)
