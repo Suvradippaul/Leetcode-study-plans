@@ -59,4 +59,4 @@ Day | Title | Difficulty | Solution
 19 | [1562. Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target.md)
 19 | [1648. Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/1648.%20Sell%20Diminishing-Valued%20Colored%20Balls.md)
 20 | [911. Online Election](https://leetcode.com/problems/online-election/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/911.%20Online%20Election.md)
-20 | [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | Medium | -
+20 | [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/1201.%20Ugly%20Number%20III.md)
