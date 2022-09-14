@@ -37,6 +37,8 @@ Day | Title | Difficulty | Solution
 --- | --- | --- | ---
 1 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/209.%20Minimum%20Size%20Subarray%20Sum.md)
 1 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/611.%20Valid%20Triangle%20Number.md)
+2 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium | -
+2 | [1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Medium | -
 3 | [1760. Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/1760.%20Minimum%20Limit%20of%20Balls%20in%20a%20Bag.md)
 9 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/Single%20Element%20in%20a%20Sorted%20Array.md)
 9 | [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | [here](https://github.com/Suvradippaul/Leetcode-study-plans/blob/main/Binary%20Search/Part%202/Solutions/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element.md)
